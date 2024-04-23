@@ -7,6 +7,14 @@
 - 💬 Ask me about the MERN stack
 - 📫 How to reach me: myselfshivangi08@gmail.com
 
+## 🌐 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/shivangi-jain-bb0739289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivangi-jain-bb0739289" height="30" width="40" /></a>
+<a href="https://instagram.com/shivangi.jain.09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivangi.jain.09" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/myselfshivangi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="myselfshivangi" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shivangi-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shivangi-jain" height="30" width="40" /></a>
+</p>
+
 ## 💻 Tech Stack
 
 ### Programming Languages
@@ -72,8 +80,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivangi.jain.09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivangi-jain-bb0739289) 
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=shivangi-jain-08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
