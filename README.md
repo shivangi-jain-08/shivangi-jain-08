@@ -89,4 +89,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangi-jain-08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shivangi-jain-08&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivangi-jain-08" alt="shivangi-jain-08" /></a> </p>
