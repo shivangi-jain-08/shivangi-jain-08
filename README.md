@@ -1,5 +1,6 @@
-<h1 align="center">Hi there! 👋 I'm Shivangi Jain</h1>
-<h3 align="center">A Passionate Fullstack Developer from India</h3>
+<h1 align="left">Hi there! 👋 I'm Shivangi Jain</h1>
+<p align="left">I am a passionate Full Stack Developer. I enjoy building responsive interfaces and scalable solutions. Currently, I am diving deep into Data Structures and Algorithms (DSA) to build robust applications and I am learning how to build AI models. <br/>
+I am open to connect and explore tech together! 🚀</p>
 
 # 💫 About Me
 - 🔭 Currently working on [GameVerse](https://github.com/kalviumcommunity/S54_Shivangi_Capstone_GameVerse)
@@ -133,3 +134,4 @@
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivangi-jain-08&theme=radical" alt="shivangi-jain-08" /></a> </p>
+
