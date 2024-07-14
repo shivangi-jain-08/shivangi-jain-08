@@ -126,10 +126,9 @@ I am open to connect and explore tech together! 🚀</p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivangi-jain-08&show_icons=true&theme=radical" alt="Shivangi Jain GitHub Stats" /> <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangi-jain-08&theme=radical&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangi-jain-08&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  
+  <img width="38%" height="308px"src="https://github-readme-stats.vercel.app/api/top-langs?username=shivangi-jain-08&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="shivangi-jain-08" /> 
+<img width="50%" height="308px" src="https://github-readme-stats.vercel.app/api?username=shivangi-jain-08&show_icons=true&theme=radical&locale=en&hide_border=true" alt="shivangi-jain-08"  />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivangi-jain-08&theme=radical&hide_border=true" alt="shivangi-jain-08" />
 </p>
 
 ## 🏆 GitHub Trophies
