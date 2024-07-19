@@ -4,7 +4,7 @@ I am open to connect and explore tech together! 🚀</p>
 
 # 💫 About Me
 - 🔭 Currently working on [GameVerse](https://github.com/kalviumcommunity/S54_Shivangi_Capstone_GameVerse)
-- 🌱 Learning about AI models and Data Structures & Algorithms
+- 🌱 Learning about creating AI models and Data Structures & Algorithms
 - 💬 Ask me about the MERN stack
 - 📫 How to reach me: myselfshivangi08@gmail.com
  
