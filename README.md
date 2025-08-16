@@ -17,9 +17,9 @@ I am open to connect and explore tech together! 🚀</p>
 
 ## 🏆 CP Profiles
 <p align="left"/>
+ <a href="https://codeforces.com/profile/dom7171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shivangi-jain" height="30" width="30" /></a>
   <a href="https://www.leetcode.com/shivangi-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivangi-jain" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/myselfshivangi" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="myselfshivangi" height="30" width="30" /></a>
-<a href="https://codeforces.com/profile/jain-shivangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shivangi-jain" height="30" width="30" /></a>
 </p>
 
 
